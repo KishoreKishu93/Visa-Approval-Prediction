@@ -24,7 +24,7 @@ list_of_files = [
     f"{project_name}/pipline/training_pipeline.py",
     f"{project_name}/pipline/prediction_pipeline.py",
     f"{project_name}/utils/__init__.py",
-    f"{project_name}/utils/main_utils.py",
+    f"{project_name}/utils/main_utils.py", #Reusable functions are stored in util.py file
     "app.py",
     "requirements.txt",
     "Dockerfile",

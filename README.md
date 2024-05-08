@@ -1,5 +1,5 @@
 #US-Visa-Approval-Prediction
-
+#https://github.com/entbappy/US-Visa-Approval-Prediction/blob/main/README.md
 
 ##Git commands
 
@@ -14,7 +14,8 @@ conda create -n visa python=3.8 -y
 conda activate visa
 pip install -r requirements.txt
 python app.py
-Workflow
+
+## Workflow
 constant
 config_entity
 artifact_entity
