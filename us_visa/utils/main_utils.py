@@ -1,4 +1,4 @@
-#All the reuable functions are stored here, we can import and use as required
+#All the reusable functions are stored here, we can import and use as required.
 import os
 import sys
 
